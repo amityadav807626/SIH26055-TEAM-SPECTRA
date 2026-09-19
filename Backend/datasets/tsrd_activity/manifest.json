@@ -1,0 +1,15 @@
+{
+  "source": "Alan Turing Synthetic Radar Dataset (TSRD), user-selected files",
+  "representation": "label-derived activity proxy",
+  "bands": 30,
+  "time_slots": 260,
+  "raw_files_bundled": false,
+  "splits": {
+    "test_scan": ["config_0.h5", "config_1.h5"],
+    "train_scan": ["config_0 (1).h5", "config_1 (1).h5"],
+    "val_scan": ["config_0 (2).h5", "config_1 (2).h5"],
+    "test_stare": ["config_0 (3).h5", "config_1 (3).h5"],
+    "train_stare": ["config_0 (4).h5", "config_1 (4).h5"],
+    "val_stare": ["config_0 (5).h5", "config_1 (5).h5"]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "raw_converted_csv_files_validated": 12,
+  "normalized_split_files_validated": 6,
+  "raw_files": [
+    {
+      "file": "config_0 (1).csv",
+      "rows": 169617,
+      "unique_labels": 72,
+      "nonzero_label_rows": 169444
+    },
+    {
+      "file": "config_0 (2).csv",
+      "rows": 79340,
+      "unique_labels": 15,
+      "nonzero_label_rows": 78645
+    },
+    {
+      "file": "config_0 (3).csv",
+      "rows": 13929,
+      "unique_labels": 1,
+      "nonzero_label_rows": 0
+    },
+    {
+      "file": "config_0 (4).csv",
+      "rows": 2071247,
+      "unique_labels": 71,
+      "nonzero_label_rows": 2069126
+    },
+    {
+      "file": "config_0 (5).csv",
+      "rows": 648034,
+      "unique_labels": 12,
+      "nonzero_label_rows": 638373
+    },
+    {
+      "file": "config_0.csv",
+      "rows": 788,
+      "unique_labels": 1,
+      "nonzero_label_rows": 0
+    },
+    {
+      "file": "config_1 (1).csv",
+      "rows": 119281,
+      "unique_labels": 37,
+      "nonzero_label_rows": 114048
+    },
+    {
+      "file": "config_1 (2).csv",
+      "rows": 55209,
+      "unique_labels": 36,
+      "nonzero_label_rows": 52613
+    },
+    {
+      "file": "config_1 (3).csv",
+      "rows": 448575,
+      "unique_labels": 27,
+      "nonzero_label_rows": 446166
+    },
+    {
+      "file": "config_1 (4).csv",
+      "rows": 858911,
+      "unique_labels": 30,
+      "nonzero_label_rows": 729531
+    },
+    {
+      "file": "config_1 (5).csv",
+      "rows": 1234196,
+      "unique_labels": 33,
+      "nonzero_label_rows": 1234196
+    },
+    {
+      "file": "config_1.csv",
+      "rows": 50013,
+      "unique_labels": 30,
+      "nonzero_label_rows": 49876
+    }
+  ],
+  "normalized_splits": [
+    {
+      "file": "test_scan.csv",
+      "rows": 7800,
+      "active_cells": 659,
+      "active_fraction": 0.08448717948717949
+    },
+    {
+      "file": "test_stare.csv",
+      "rows": 7800,
+      "active_cells": 1471,
+      "active_fraction": 0.1885897435897436
+    },
+    {
+      "file": "train_scan.csv",
+      "rows": 7800,
+      "active_cells": 1043,
+      "active_fraction": 0.13371794871794873
+    },
+    {
+      "file": "train_stare.csv",
+      "rows": 7800,
+      "active_cells": 1967,
+      "active_fraction": 0.2521794871794872
+    },
+    {
+      "file": "val_scan.csv",
+      "rows": 7800,
+      "active_cells": 591,
+      "active_fraction": 0.07576923076923077
+    },
+    {
+      "file": "val_stare.csv",
+      "rows": 7800,
+      "active_cells": 1140,
+      "active_fraction": 0.14615384615384616
+    }
+  ],
+  "notes": "Validation covers all 12 uploaded converted CSVs. The bundled normalized files are compact label-derived activity proxies; raw TSRD fields are not bundled."
+}
