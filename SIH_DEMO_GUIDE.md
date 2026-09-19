@@ -1,4 +1,4 @@
-# SIH Demo Guide — SPECTRA / SMART-SCAN V3.8
+# SIH Demo Guide — SPECTRA / SMART-SCAN
 
 ## 1. Opening statement
 

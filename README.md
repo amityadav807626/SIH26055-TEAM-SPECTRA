@@ -1,4 +1,4 @@
-# SPECTRA — SMART-SCAN (SIH26055) — V3.8.0 FINAL
+# SPECTRA — SMART-SCAN (SIH26055)
 
 SPECTRA is a **software-only synthetic spectrum scanning simulation** demonstrating an online adaptive scheduler:
 
